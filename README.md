@@ -25,3 +25,5 @@ Abra o Jupyter Notebook para acessar o arquivo EDADesafio.ipynb na pasta que dei
 Ao abrir o arquivo no ambiente, tente rodar as importações, caso ocorra um erro de falta de intalações, digite pip install nome_da_biblioteca-que_necessita
 5. Teste o código
 Rode o código usando a opção "run" no canto superior esquerdo e escolha se prefere dar "run" em uma célula de cada vez(para compreender melhor) ou aperte "run all cells" para ter acesso ao resultado de todos os códigos em sequência.
+
+Link de vídeo explicativo no driver: https://drive.google.com/file/d/1DIsGLNMAP8NuFQfO6hW3YxXmS7DV7dCU/view?usp=sharing

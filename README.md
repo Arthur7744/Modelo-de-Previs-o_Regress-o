@@ -1,5 +1,5 @@
 # Projeto de Previsão de Preços de Aluguéis em Nova York
-Este projeto tem como objetivo prever o preço de aluguéis temporários na cidade de Nova York com base em um conjunto de dados fornecido. O modelo foi desenvolvido utilizando técnicas de aprendizado de máquina e análise exploratória de dados (EDA) para identificar os principais fatores que influenciam os preços. O trabalho inclui:
+Este projeto tem como objetivo prever o preço de aluguéis temporários na cidade de Nova York com base em um conjunto de dados fornecido. O modelo foi desenvolvido utilizando técnicas para identificar os principais fatores que influenciam os preços. O trabalho inclui:
 Análise exploratória de dados (EDA) mais detalhada possível.
 Desenvolvimento e avaliação de modelos de regressão.
 Implementação de um modelo final para previsão de preços.

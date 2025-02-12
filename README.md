@@ -2,9 +2,8 @@
 Este projeto tem como objetivo prever o preço de aluguéis temporários na cidade de Nova York com base em um conjunto de dados fornecido. O modelo foi desenvolvido utilizando técnicas para identificar os principais fatores que influenciam os preços. O trabalho inclui:
 
 1. Análise exploratória de dados (EDA) mais detalhada possível.
-2. Desenvolvimento e avaliação de modelos de regressão.
-3. Implementação de um modelo final para previsão de preços.
-4. Relatórios e documentação em Jupyter Notebook.
+2. Implementação de um modelo final para previsão de preços.
+3. Relatórios e documentação em Jupyter Notebook.
 
 A respeito dos arquivos, o "teste_indicium_precificacao_dados.csv" contém os dados utilizados para o desenvolvimento do modelo. Ele inclui informações sobre localização, tipo de quarto, disponibilidade, número de reviews, entre outras variáveis que foram fornecidas para a realização do desafio. O modelo preditivo treinado, salvo no formato .pkl, está disponível neste repositório como "model_previsao_precos.pkl".
 O modelo escolhido foi o Random Forest, ajustado para capturar as relações não lineares entre as variáveis e fornecer as previsões.

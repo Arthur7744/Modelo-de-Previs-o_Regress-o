@@ -7,7 +7,7 @@ Este projeto tem como objetivo prever o preço de aluguéis temporários na cida
 4. Treinamento de modelos preditivos.
 5. Exemplo de uso do modelo para prever o preço de um novo apartamento com características específicas do dataset.
 
-A respeito dos arquivos, o "teste_indicium_precificacao_dados.csv" contém os dados utilizados para o desenvolvimento do modelo. Ele inclui informações sobre localização, tipo de quarto, disponibilidade, número de reviews, entre outras variáveis que foram fornecidas para a realização do desafio. O modelo preditivo treinado, salvo no formato .pkl, está disponível neste repositório como "model_previsao_precos.pkl".
+A respeito dos arquivos, o "teste_indicium_precificacao_dados.csv" contém os dados utilizados para o desenvolvimento do modelo. Ele inclui informações sobre localização, tipo de quarto, disponibilidade, número de reviews, entre outras variáveis que foram fornecidas para a realização do desafio. 
 O modelo escolhido foi o Random Forest, ajustado para capturar as relações não lineares entre as variáveis e fornecer as previsões.
 Todo o processo de desenvolvimento e a documentação está no arquivo Jupyter Notebook "Analise_Exploratoria_Modelos.ipynb".
 

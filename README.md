@@ -4,8 +4,8 @@ Este projeto tem como objetivo prever o preço de aluguéis temporários na cida
 1. Análise exploratória dos dados (EDA), incluindo gráficos e estatísticas descritivas.
 2. Pré-processamento dos dados, exclusão de dados e codificação de variáveis categóricas.
 3. Visualizações para interpretação dos resultados.
-4. Treinamento do modelo preditivo, incluindo divisão de dados em treino e teste e avaliação do desempenho.
-5. Exemplo de uso do modelo para prever o preço de um apartamento com características específicas do dataset.
+4. Treinamento de modelos preditivos.
+5. Exemplo de uso do modelo para prever o preço de um novo apartamento com características específicas do dataset.
 
 A respeito dos arquivos, o "teste_indicium_precificacao_dados.csv" contém os dados utilizados para o desenvolvimento do modelo. Ele inclui informações sobre localização, tipo de quarto, disponibilidade, número de reviews, entre outras variáveis que foram fornecidas para a realização do desafio. O modelo preditivo treinado, salvo no formato .pkl, está disponível neste repositório como "model_previsao_precos.pkl".
 O modelo escolhido foi o Random Forest, ajustado para capturar as relações não lineares entre as variáveis e fornecer as previsões.

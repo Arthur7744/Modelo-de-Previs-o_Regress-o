@@ -9,7 +9,7 @@ Este projeto tem como objetivo prever o preço de aluguéis temporários na cida
 
 A respeito dos arquivos, o "teste_indicium_precificacao_dados.csv" contém os dados utilizados para o desenvolvimento do modelo. Ele inclui informações sobre localização, tipo de quarto, disponibilidade, número de reviews, entre outras variáveis que foram fornecidas para a realização do desafio. O modelo preditivo treinado, salvo no formato .pkl, está disponível neste repositório como "model_previsao_precos.pkl".
 O modelo escolhido foi o Random Forest, ajustado para capturar as relações não lineares entre as variáveis e fornecer as previsões.
-Todo o processo de desenvolvimento e a documentação está no arquivo Jupyter Notebook EDADesafio.ipynb.
+Todo o processo de desenvolvimento e a documentação está no arquivo Jupyter Notebook "Analise_Exploratoria_Modelos.ipynb".
 
 Tutorial: Como Rodar o Projeto
 
@@ -22,5 +22,3 @@ Abra o Jupyter Notebook para acessar o arquivo EDADesafio.ipynb na pasta que dei
 Ao abrir o arquivo no ambiente, tente rodar as importações, caso ocorra um erro de falta de intalações, digite pip install nome_da_biblioteca-que_necessita
 4. Teste o código:
 Rode o código usando a opção "run" no canto superior esquerdo e escolha se prefere dar "run" em uma célula de cada vez(para compreender melhor) ou aperte "run all cells" para ter acesso ao resultado de todos os códigos em sequência.
-
-Link de vídeo explicativo no driver: https://drive.google.com/file/d/1DIsGLNMAP8NuFQfO6hW3YxXmS7DV7dCU/view?usp=sharing

@@ -1,9 +1,9 @@
 # Projeto de Previsão de Preços de Aluguéis em Nova York
-Este projeto tem como objetivo prever o preço de aluguéis temporários na cidade de Nova York com base em um conjunto de dados fornecido. O modelo foi desenvolvido utilizando técnicas para identificar os principais fatores que influenciam os preços. O trabalho inclui:
+Este projeto tem como objetivo prever o preço de aluguéis temporários na cidade de Nova York com base em um conjunto de dados fornecido. O modelo foi desenvolvido na linguagem Python na IDE Jupyter Notebook, utilizando técnicas para identificar os principais fatores que influenciam os preços. O trabalho inclui:
 
-1. Análise exploratória dos dados (EDA), incluindo gráficos e estatísticas descritivas.
-2. Pré-processamento dos dados, exclusão de dados e codificação de variáveis categóricas.
-3. Visualizações para interpretação dos resultados.
+1. Pré-processamento dos dados, exclusão de dados e codificação de variáveis categóricas.
+2. Análise exploratória dos dados (EDA).
+3. Visualizações para interpretação.
 4. Treinamento de modelos preditivos.
 5. Exemplo de uso do modelo para prever o preço de um novo apartamento com características específicas do dataset.
 
